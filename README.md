@@ -4,7 +4,7 @@ This is a sample project that illustrates the use of the react framework in a ve
 # Technical setup
 The following is the initial stack that should be used, although you can make some changes to the backend choices (ie use python rather than go, but please explain why in the commit message or in this repo's wiki)
 
-Clients: 
+**Clients:** 
    Core: React / React Native
    Client Data Model: Relay (https://facebook.github.io/relay/)
    Routing: React Router Relay (https://github.com/relay-tools/react-router-relay)
